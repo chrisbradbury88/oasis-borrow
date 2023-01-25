@@ -53,8 +53,8 @@ const FOOTER_SECTIONS = [
     links: [
       {
         labelKey: 'nav.dai-wallet',
-        url: `${apiHost}/daiwallet`,
-        target: '_self',
+        url: 'https://kb.oasis.app/help/contact-us',
+        target: '_blank',
       },
       { labelKey: 'nav.borrow', url: '/borrow' },
       { labelKey: 'nav.multiply', url: '/multiply' },
